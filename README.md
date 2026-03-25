@@ -30,4 +30,4 @@ I enjoy learning by doing, documenting my progress, and creating real projects t
 Right now, I am documenting my progress in programming and preparing to document my cybersecurity learning journey as well.
 
 ## Connect With Me
-- LinkedIn: pon_aquí_tu_link
+- LinkedIn: linkedin.com/in/fredybernaltech
