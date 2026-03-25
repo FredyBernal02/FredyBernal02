@@ -1,33 +1,49 @@
-# Hi, I'm Fredy Bernal 👋
+# 👋 Hi, I'm Fredy Bernal
 
 💻 Software Development Student  
 🔐 Cybersecurity Learner  
 📍 Based in Canada  
 
-## About Me
-I am currently building my path in software development and cybersecurity.  
-I enjoy learning by doing, documenting my progress, and creating real projects that help me grow professionally.
+---
 
-## Current Focus
-- Backend development with Python and Flask
-- Learning cybersecurity with TryHackMe
-- Improving my GitHub portfolio
-- Building real-world projects
+## 🚀 About Me
+I am building my path in software development and cybersecurity.  
+I focus on learning by doing, documenting my progress, and creating real-world projects.
 
-## Tech I'm Working With
-- Python
-- Flask
-- SQLite
-- Git & GitHub
-- HTML & CSS
-- Linux basics
+---
 
-## Projects
-- **ScheduleControl** – Appointment and shift management system for small businesses
-- More projects coming soon
+## 🎯 Current Focus
+- Backend development with Python & Flask  
+- Learning cybersecurity with TryHackMe  
+- Building a strong GitHub portfolio  
+- Improving problem-solving skills  
 
-## Learning Journey
-Right now, I am documenting my progress in programming and preparing to document my cybersecurity learning journey as well.
+---
 
-## Connect With Me
+## 🛠️ Tech Stack
+- Python  
+- Flask  
+- SQLite  
+- Git & GitHub  
+- HTML & CSS  
+- Linux basics  
+
+---
+
+## 📂 Featured Projects
+- 🔹 **ScheduleControl** – Appointment management system for small businesses  
+- 🔹 More projects coming soon...  
+
+---
+
+## 🔐 Cybersecurity Journey
+Currently learning and preparing to document:
+- Networking fundamentals  
+- OSI Model  
+- Ports & Protocols  
+- Linux for cybersecurity  
+
+---
+
+## 📫 Connect With Me
 - LinkedIn: linkedin.com/in/fredybernaltech
