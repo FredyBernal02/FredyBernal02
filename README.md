@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Fredy Bernal 👋
 
-<!--
-**FredyBernal02/FredyBernal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Student  
+🔐 Cybersecurity Learner  
+📍 Based in Canada  
 
-Here are some ideas to get you started:
+## About Me
+I am currently building my path in software development and cybersecurity.  
+I enjoy learning by doing, documenting my progress, and creating real projects that help me grow professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Backend development with Python and Flask
+- Learning cybersecurity with TryHackMe
+- Improving my GitHub portfolio
+- Building real-world projects
+
+## Tech I'm Working With
+- Python
+- Flask
+- SQLite
+- Git & GitHub
+- HTML & CSS
+- Linux basics
+
+## Projects
+- **ScheduleControl** – Appointment and shift management system for small businesses
+- More projects coming soon
+
+## Learning Journey
+Right now, I am documenting my progress in programming and preparing to document my cybersecurity learning journey as well.
+
+## Connect With Me
+- LinkedIn: pon_aquí_tu_link
